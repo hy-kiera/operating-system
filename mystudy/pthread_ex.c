@@ -1,5 +1,5 @@
 /* Summation using pthread */
-/* gcc -lpthread -o pthread_ex pthread_ex.c */
+/* gcc -o pthread_ex pthread_ex.c -lpthread */
 
 #include <stdio.h>
 #include <pthread.h> // pthread library
